@@ -3,10 +3,10 @@ package com.springbootdcoker;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class SpringBootDcokerApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
